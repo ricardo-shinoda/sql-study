@@ -1,0 +1,12 @@
+# Banco de dados SQLite
+*.db
+
+# Arquivos de dados CSV (geralmente muito grandes)
+*.csv
+
+# Ambientes virtuais Python
+venv/
+.venv/
+
+# Pastas de configuração do VS Code (opcional)
+.vscode/
