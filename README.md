@@ -1,4 +1,3 @@
-Markdown
 # 🎞️ Sakila DVD Rental: Relational Database Project
 
 A professional SQL study project using the **Sakila Sample Database** to analyze a movie rental business. This project demonstrates mastery of the PostgreSQL environment, from initial schema creation to complex business intelligence reporting.
@@ -88,7 +87,7 @@ ETL Optimization: Managed large-scale data imports using the psql command-line i
 
 Project maintained by Ricardo — SQL Data Engineering Portfolio.
 
-IMPORTANT - to rebuild the DB
+## IMPORTANT - to rebuild the DB
 
 go to sakila-project folder and run the file schema.sql
 
