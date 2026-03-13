@@ -98,3 +98,6 @@ Steps:
 * download file: postgres-sakila-insert-data.sql
 
 On terminal, from the Download folder run: psql -h localhost -U ricardo -d sakila -f postgres-sakila-insert-data.sql
+
+-- Comando de restauração do banco caso estiver tudo deletado:
+-- on terminal: psql -h localhost -U ricardo -d sakila -f backup/sakila_backup_20260312.sql

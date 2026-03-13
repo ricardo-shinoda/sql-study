@@ -10,3 +10,6 @@ venv/
 # Arquivos do sistema e IDEs
 .DS_Store
 .vscode/
+
+# Arquivo gigante de insert data
+postgres-sakila-insert-data.sql
