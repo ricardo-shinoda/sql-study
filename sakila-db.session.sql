@@ -3,4 +3,4 @@ SELECT
     (SELECT COUNT(*) FROM actor) AS total_atores,
     (SELECT COUNT(*) FROM payment) AS total_pagamentos;
 
-    select * from city;
+    select * from staff;
